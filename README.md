@@ -6,8 +6,9 @@ This repository provides a PyTorch implementation of the HSTGCNN_VAD method pres
 
 You find a PDF of the paper at https://arxiv.org/pdf/2112.04294.pdf.
 
-If you use our work, please also cite the paper:
+If you find the code useful, please also consider the following BibTeX entry:
 
+```BibTeX
 @article{zeng2021hierarchical,
   title={A hierarchical spatio-temporal graph convolutional neural network for anomaly detection in videos},
   author={Zeng, Xianlin and Jiang, Yalong and Ding, Wenrui and Li, Hongguang and Hao, Yafeng and Qiu, Zifeng},
@@ -15,5 +16,5 @@ If you use our work, please also cite the paper:
   year={2021},
   publisher={IEEE}
 }
-
+'''
 If you would like to get in touch, please contact zengxianlin@buaa.edu.cn.

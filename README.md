@@ -1,6 +1,6 @@
 # HSTGCNN_VAD
 
-This repository provides a PyTorch implementation of the HSTGCNN_VAD method presented in our TCSVT 2021 paper "A Hierarchical Spatio-Temporal GraphConvolutional Neural Network for AnomalyDetection in Videos".
+This repository provides a PyTorch implementation of the HSTGCNN_VAD method presented in our TCSVT 2021 paper "A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly Detection in Videos".
 
 # Citation and Contact
 

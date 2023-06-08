@@ -15,6 +15,6 @@ If you find the code useful, please also consider the following BibTeX entry.
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2021},
   publisher={IEEE}
-}'''
+}
 
 If you would like to get in touch, please contact zengxianlin@buaa.edu.cn.

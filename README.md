@@ -6,7 +6,7 @@ This repository provides a PyTorch implementation of the HSTGCNN_VAD method pres
 
 You find a PDF of the paper at https://arxiv.org/pdf/2112.04294.pdf.
 
-If you find the code useful, please also consider the following BibTeX entry:
+If you find the code useful, please also consider the following BibTeX entry.
 
 ```BibTeX
 @article{zeng2021hierarchical,
@@ -17,4 +17,5 @@ If you find the code useful, please also consider the following BibTeX entry:
   publisher={IEEE}
 }
 '''
+
 If you would like to get in touch, please contact zengxianlin@buaa.edu.cn.

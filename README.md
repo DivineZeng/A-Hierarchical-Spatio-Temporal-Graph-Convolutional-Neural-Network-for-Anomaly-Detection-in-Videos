@@ -8,7 +8,7 @@ You find a PDF of the paper at https://arxiv.org/pdf/2112.04294.pdf.
 
 If you find the code useful, please also consider the following BibTeX entry.
 
-'''BibTeX
+```BibTeX
 @article{zeng2021hierarchical,
   title={A hierarchical spatio-temporal graph convolutional neural network for anomaly detection in videos},
   author={Zeng, Xianlin and Jiang, Yalong and Ding, Wenrui and Li, Hongguang and Hao, Yafeng and Qiu, Zifeng},
@@ -16,5 +16,5 @@ If you find the code useful, please also consider the following BibTeX entry.
   year={2021},
   publisher={IEEE}
 }'''
-#
+
 If you would like to get in touch, please contact zengxianlin@buaa.edu.cn.
